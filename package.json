@@ -1,0 +1,19 @@
+{
+  "name": "6b3-wk6",
+  "version": "1.0.0",
+  "description": "first tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./styles/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "origin https://github.com/Tifebaris/6B3-WK6.git"
+  },
+  "author": "Tifebaris",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
